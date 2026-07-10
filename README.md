@@ -107,6 +107,11 @@ PHP plugins made for WordPress to achieve custom logic and functionality.
 ## 📄 Academic Studies
 Repositories connected to published academic research.
 
+- **CDSS plug and play microfrontends for predicting medical conditions**  
+  🔢 Python | 🏥 Medical Field | ⚙️ Interoperability | 📄 Academic Research  
+  - [Code](https://github.com/Stefan3002/ehr-microfrontends-interop)  
+  Used in the paper *"A FHIR-Based Marketplace for Predictive Micro-Frontend Widgets Integrable into Existing EHR Systems"* (IcSeng 2026). Implements an open, browser-native architecture extending Clinical Decision Support Systems (CDSS) through plug-and-play, SMART-on-FHIR predictive micro-frontend widgets.
+
 - **Sudoku Solvers: From Brute Force to Logic**  
   🔢 Python | 📊 Statistical Analysis | 📄 Academic Research  
   - [Code](https://github.com/Stefan3002/Sudoku-solvers)  
